@@ -12,14 +12,14 @@ def line():
     print (f"El coeficiente X1 de su ecuación de la recta es: {CoX1}")
     print (f"El coeficiente X2 de su ecuación de la recta es : {CoX2}")
 
-    print ()
+    print ("")
 
     print ("Para la siguiente ecuación: ")
     print (f"\tY = {CoA}X + {CoB}")
 
-    print ()
+    print ("")
 
-    print ("Dados los siguiente puntos:")
+    print ("Dados los siguiente puntos: ")
     print (f"\tP1 ({CoX1}, {Y1})")
     print (f"\tP2 ({CoX2}, {Y2})")
 
