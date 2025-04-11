@@ -17,6 +17,8 @@ def line():
     print ("Para la siguiente ecuación: ")
     print (f"\tY = {CoA}X + {CoB}")
 
+    print ()
+
     print ("Dados los siguiente puntos:")
     print (f"\tP1 ({CoX1}, {Y1})")
     print (f"\tP2 ({CoX2}, {Y2})")
